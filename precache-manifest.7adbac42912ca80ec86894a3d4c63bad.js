@@ -104,6 +104,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/icon.png"
   },
   {
+    "revision": "fb7d8c24f61a00240ae33a5267734438",
+    "url": "/img/opengraph_image.png"
+  },
+  {
     "revision": "e535ce83da20a4b7719ca3d45195ebd5",
     "url": "/img/shapes.svg"
   },
@@ -112,7 +116,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/splash.png"
   },
   {
-    "revision": "77c4cad25274ed7934fa6c1ee1105c3f",
+    "revision": "33614fd4c63561ddbf1f8605c3818c56",
     "url": "/index.html"
   },
   {
