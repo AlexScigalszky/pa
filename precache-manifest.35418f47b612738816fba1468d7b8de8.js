@@ -105,7 +105,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "fb7d8c24f61a00240ae33a5267734438",
-    "url": "/img/opengraph_image.png"
+    "url": "/img/palabras_aleatorias_share.png"
   },
   {
     "revision": "e535ce83da20a4b7719ca3d45195ebd5",
@@ -116,7 +116,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/splash.png"
   },
   {
-    "revision": "7dd03cd24044b22fa334ee9889bcbd9a",
+    "revision": "efd06ae7b300bfa499471006a7930d94",
     "url": "/index.html"
   },
   {
