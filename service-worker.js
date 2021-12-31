@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.7adbac42912ca80ec86894a3d4c63bad.js"
+  "/precache-manifest.c68e9a2c2dc6f623aff67c69e55ebf48.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "palabras-aleatorias-pwa"});
