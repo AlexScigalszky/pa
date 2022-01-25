@@ -20,12 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "audio/tock.mp3"
   },
   {
-    "revision": "d0bd2ea39e0eb9e94548",
+    "revision": "2ea6ca91b1493c4ec669",
     "url": "css/about.7867575f.css"
   },
   {
-    "revision": "71f1d1ec1da67bb96794",
-    "url": "css/app.ee4a2e8d.css"
+    "revision": "ab956efe724d792612fc",
+    "url": "css/app.d59a70db.css"
   },
   {
     "revision": "4cb0168093c4e5257885",
@@ -116,16 +116,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/splash.png"
   },
   {
-    "revision": "f67961b65b89386fef55c35d06ab6856",
+    "revision": "a515816583d0f8afa99c2aea6d78edd7",
     "url": "index.html"
   },
   {
-    "revision": "d0bd2ea39e0eb9e94548",
-    "url": "js/about.949c6926.js"
+    "revision": "2ea6ca91b1493c4ec669",
+    "url": "js/about.15e4e7a8.js"
   },
   {
-    "revision": "71f1d1ec1da67bb96794",
-    "url": "js/app.75bbd9b3.js"
+    "revision": "ab956efe724d792612fc",
+    "url": "js/app.c43a6780.js"
   },
   {
     "revision": "4cb0168093c4e5257885",
@@ -136,12 +136,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/comments.bc7bb218.js"
   },
   {
-    "revision": "a6223d9970e263929c56",
-    "url": "js/saved.fadbba00.js"
+    "revision": "7171453987bf1159965b",
+    "url": "js/saved.97871c66.js"
   },
   {
-    "revision": "3aa2c5a458bff2030f79",
-    "url": "js/setttings.1bba2c9f.js"
+    "revision": "af07f10cdc5d94fc7d30",
+    "url": "js/setttings.6786470e.js"
   },
   {
     "revision": "a34d4c70c5924d185fbc",
