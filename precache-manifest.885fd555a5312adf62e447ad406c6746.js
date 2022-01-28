@@ -20,15 +20,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "audio/tock.mp3"
   },
   {
-    "revision": "e8b9b6378c3c9ae09009",
+    "revision": "a31cf935d3fbea7da5e1",
     "url": "css/about.7867575f.css"
   },
   {
-    "revision": "cc1a016b74d33c48f489",
+    "revision": "56cb119ffe33b569e790",
     "url": "css/app.e2b18e09.css"
   },
   {
-    "revision": "1fc385465f6ec8259f2e",
+    "revision": "3f373d1e215e52d173bf",
     "url": "css/chunk-vendors.bddfda6d.css"
   },
   {
@@ -116,40 +116,40 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/splash.png"
   },
   {
-    "revision": "2961d290a688a2c378f1cc5bea8b08e9",
+    "revision": "4d153b3c9bdf804bf2e687466f093d2b",
     "url": "index.html"
   },
   {
-    "revision": "e8b9b6378c3c9ae09009",
-    "url": "js/about.439a360d.js"
+    "revision": "a31cf935d3fbea7da5e1",
+    "url": "js/about.9a35cc26.js"
   },
   {
-    "revision": "cc1a016b74d33c48f489",
-    "url": "js/app.975697f5.js"
+    "revision": "56cb119ffe33b569e790",
+    "url": "js/app.da507783.js"
   },
   {
-    "revision": "1fc385465f6ec8259f2e",
-    "url": "js/chunk-vendors.d48ba8d2.js"
+    "revision": "3f373d1e215e52d173bf",
+    "url": "js/chunk-vendors.aaab6440.js"
   },
   {
-    "revision": "9e75c3e826580a843cbc",
-    "url": "js/comments.4b58e1d7.js"
+    "revision": "cafd632afc98cb38ba0f",
+    "url": "js/comments.0fc70573.js"
   },
   {
-    "revision": "b61c52b5229f11160bef",
-    "url": "js/saved.65fb1584.js"
+    "revision": "42e1385a826387688655",
+    "url": "js/saved.7b20fa6d.js"
   },
   {
-    "revision": "b779d840e10ac290fe13",
-    "url": "js/setttings.71e5c524.js"
+    "revision": "e5962528889e8c8a5691",
+    "url": "js/setttings.47ccbb10.js"
   },
   {
-    "revision": "f6c82918f051af2e00fb",
-    "url": "js/show-comments.c98993b6.js"
+    "revision": "5323a38198d47ab3faa2",
+    "url": "js/show-comments.12c1c904.js"
   },
   {
-    "revision": "7ddcc9f6fb4c0608056a",
-    "url": "js/words-group.ebfc85f1.js"
+    "revision": "82d5bab6cf99f383e7de",
+    "url": "js/words-group.537b41e7.js"
   },
   {
     "revision": "8183cc64994391e35508e330ff406730",
