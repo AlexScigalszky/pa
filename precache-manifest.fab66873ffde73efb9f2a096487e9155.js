@@ -20,15 +20,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "audio/tock.mp3"
   },
   {
-    "revision": "e861ad852a7ac25351c7",
-    "url": "css/about.e13ac898.css"
+    "revision": "8a3c49e40ac08d348d08",
+    "url": "css/about.edd31043.css"
   },
   {
-    "revision": "36e656fa223955f0cd18",
+    "revision": "f5df0ecebdb5e7e9b98d",
     "url": "css/app.511d9bd6.css"
   },
   {
-    "revision": "47a9e64caa82399a3f7e",
+    "revision": "a8f98930e7d4387f5c30",
     "url": "css/chunk-vendors.bddfda6d.css"
   },
   {
@@ -116,64 +116,68 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/splash.png"
   },
   {
-    "revision": "f79a8fe505742c79b5e5b5c9412862fd",
+    "revision": "da90ff75748ee1e4397ce433315f1010",
     "url": "index.html"
   },
   {
-    "revision": "e861ad852a7ac25351c7",
-    "url": "js/about.dadf0cff.js"
+    "revision": "8a3c49e40ac08d348d08",
+    "url": "js/about.8676b893.js"
   },
   {
-    "revision": "e6fe78c952253d98a1d0",
-    "url": "js/animals.86032ff8.js"
+    "revision": "602a723b50892b8de454",
+    "url": "js/animals.70ab981b.js"
   },
   {
-    "revision": "36e656fa223955f0cd18",
-    "url": "js/app.064b7a2e.js"
+    "revision": "f5df0ecebdb5e7e9b98d",
+    "url": "js/app.6e0aff25.js"
   },
   {
-    "revision": "47a9e64caa82399a3f7e",
-    "url": "js/chunk-vendors.69c0cb99.js"
+    "revision": "a8f98930e7d4387f5c30",
+    "url": "js/chunk-vendors.97912d61.js"
   },
   {
-    "revision": "a3f5ac6062dca71b0947",
-    "url": "js/comments.c70ea2da.js"
+    "revision": "d2ee4fee9c9afc5c96dd",
+    "url": "js/comments.3bb20172.js"
   },
   {
-    "revision": "0682b1be453a550939c9",
-    "url": "js/names.9a7a1475.js"
+    "revision": "eec4d8ea2b49071956ff",
+    "url": "js/names.3e7a4739.js"
   },
   {
-    "revision": "2b9c9e55a55e2bbc9d46",
-    "url": "js/onomatopeias.7a7a465b.js"
+    "revision": "e8a37003c4ff391713e8",
+    "url": "js/newsletter.03a089d9.js"
   },
   {
-    "revision": "edc144e9f75068021052",
-    "url": "js/saved.e1fe6f5a.js"
+    "revision": "b8f17fb8199b020cc4db",
+    "url": "js/onomatopeias.ac45f325.js"
   },
   {
-    "revision": "bd6ff9ff0d21f3d5af91",
-    "url": "js/search.097b3d53.js"
+    "revision": "2ca59424b9329f2af10d",
+    "url": "js/saved.ae04aae8.js"
   },
   {
-    "revision": "93daaa52fffd0c69934d",
-    "url": "js/settings.cb01ba42.js"
+    "revision": "ed1e6d15f6c777a7b4e5",
+    "url": "js/search.a120c008.js"
   },
   {
-    "revision": "ca77e05ea84a2fdf26dd",
-    "url": "js/show-comments.cf510889.js"
+    "revision": "ebc353a617cf05cdb594",
+    "url": "js/settings.52fff397.js"
   },
   {
-    "revision": "047980097fc33165810c",
-    "url": "js/specific-word.1126d8ce.js"
+    "revision": "c75f1adc83b2f0ed4475",
+    "url": "js/show-comments.f6eb1254.js"
   },
   {
-    "revision": "6a4041c4592a89fe3464",
-    "url": "js/word-of-the-day.4739140a.js"
+    "revision": "8085065892d9e5109cf7",
+    "url": "js/specific-word.b17d9b65.js"
   },
   {
-    "revision": "fb03832b1f718d09d12d",
-    "url": "js/words-group.b0da8408.js"
+    "revision": "62a60ff71e1a9b3e91ec",
+    "url": "js/word-of-the-day.d3100eea.js"
+  },
+  {
+    "revision": "2c331ecaeaab89acb8c4",
+    "url": "js/words-group.a1a490fd.js"
   },
   {
     "revision": "d14a07781f06bf4153dd75b8d692cd75",
