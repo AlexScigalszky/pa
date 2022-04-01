@@ -20,15 +20,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "audio/tock.mp3"
   },
   {
-    "revision": "fcb078ac211f1c626c65",
-    "url": "css/about.7867575f.css"
+    "revision": "e861ad852a7ac25351c7",
+    "url": "css/about.e13ac898.css"
   },
   {
-    "revision": "4dd225e4ec115a3691c8",
-    "url": "css/app.03ac8547.css"
+    "revision": "157e9e0607efba088985",
+    "url": "css/app.511d9bd6.css"
   },
   {
-    "revision": "a75a91ceaf859c6fa5e3",
+    "revision": "47a9e64caa82399a3f7e",
     "url": "css/chunk-vendors.bddfda6d.css"
   },
   {
@@ -116,60 +116,64 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/splash.png"
   },
   {
-    "revision": "395f97e4080dd9177e995e044fa82154",
+    "revision": "26b3e70396ea41176b9a8e34bb6a3169",
     "url": "index.html"
   },
   {
-    "revision": "fcb078ac211f1c626c65",
-    "url": "js/about.e172a267.js"
+    "revision": "e861ad852a7ac25351c7",
+    "url": "js/about.dadf0cff.js"
   },
   {
-    "revision": "a84ff59b8f10f16c83ca",
-    "url": "js/animals.bc0979ad.js"
+    "revision": "e6fe78c952253d98a1d0",
+    "url": "js/animals.86032ff8.js"
   },
   {
-    "revision": "4dd225e4ec115a3691c8",
-    "url": "js/app.b4780426.js"
+    "revision": "157e9e0607efba088985",
+    "url": "js/app.8bc6fefe.js"
   },
   {
-    "revision": "a75a91ceaf859c6fa5e3",
-    "url": "js/chunk-vendors.6c3a275b.js"
+    "revision": "47a9e64caa82399a3f7e",
+    "url": "js/chunk-vendors.69c0cb99.js"
   },
   {
-    "revision": "c1d9e3f9496c5d0202c3",
-    "url": "js/comments.698110c2.js"
+    "revision": "a3f5ac6062dca71b0947",
+    "url": "js/comments.c70ea2da.js"
   },
   {
-    "revision": "f6812c9080b177768766",
-    "url": "js/names.5ba08493.js"
+    "revision": "0682b1be453a550939c9",
+    "url": "js/names.9a7a1475.js"
   },
   {
-    "revision": "039d7cac6ccfa08ec4e7",
-    "url": "js/onomatopeias.013d925b.js"
+    "revision": "2b9c9e55a55e2bbc9d46",
+    "url": "js/onomatopeias.7a7a465b.js"
   },
   {
-    "revision": "084b95ab597d3b93004d",
-    "url": "js/saved.a7afb0ea.js"
+    "revision": "edc144e9f75068021052",
+    "url": "js/saved.e1fe6f5a.js"
   },
   {
-    "revision": "88f4c7747e8ba7131d76",
-    "url": "js/search.332731f2.js"
+    "revision": "bd6ff9ff0d21f3d5af91",
+    "url": "js/search.097b3d53.js"
   },
   {
-    "revision": "053e1943f7465c47a893",
-    "url": "js/settings.88aab833.js"
+    "revision": "93daaa52fffd0c69934d",
+    "url": "js/settings.cb01ba42.js"
   },
   {
-    "revision": "c69af911d6f13b1db93b",
-    "url": "js/show-comments.a30102ee.js"
+    "revision": "ca77e05ea84a2fdf26dd",
+    "url": "js/show-comments.cf510889.js"
   },
   {
-    "revision": "7b0fe5c5ea378e03d4f1",
-    "url": "js/specific-word.0c86f315.js"
+    "revision": "047980097fc33165810c",
+    "url": "js/specific-word.1126d8ce.js"
   },
   {
-    "revision": "ef0e186bd48b7a3afcb7",
-    "url": "js/words-group.f44b5306.js"
+    "revision": "6a4041c4592a89fe3464",
+    "url": "js/word-of-the-day.4739140a.js"
+  },
+  {
+    "revision": "fb03832b1f718d09d12d",
+    "url": "js/words-group.b0da8408.js"
   },
   {
     "revision": "d14a07781f06bf4153dd75b8d692cd75",
